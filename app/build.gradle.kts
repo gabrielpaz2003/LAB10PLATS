@@ -79,6 +79,7 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.9.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+    implementation("com.google.android.gms:play-services-auth:20.7.0")
     val nav_version = "2.5.3"
     implementation ("androidx.navigation:navigation-compose:$nav_version")
     val composeBom = platform("androidx.compose:compose-bom:2023.01.00")
